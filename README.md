@@ -11,6 +11,7 @@ This a REST microservice developed using Expressjs.
 * [Nodejs](https://github.com/nodejs/node) : JavaScript runtime enviromment.
 * [Express](https://github.com/expressjs/express):  Node.js web application server framework.
 * [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and Node.js.
+* [GitHub REST API](https://docs.github.com/en/rest) : APIs to interact with Github and fetch public informations about it.
 * [Moment.js](https://github.com/moment/moment) : JavaScript date library.
 
 # Available Endpoints
