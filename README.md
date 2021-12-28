@@ -55,5 +55,7 @@ GET | api/repos/{date} | Lists the trending languages in the last 30 days from t
 ```shell
  npm start
 ```
+# Happy Coding
+
 
 <p align="center">Made with ❤️ By <a href="https://github.com/Selharem">Elharem Soufiane</a></>
