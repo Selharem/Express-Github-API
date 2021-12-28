@@ -55,6 +55,10 @@ GET | api/repos/{date} | Lists the trending languages in the last 30 days from t
 ```shell
  npm start
 ```
+
+Now, the app is running at http://localhost:5000 !
+
+
 # Happy Coding
 
 
