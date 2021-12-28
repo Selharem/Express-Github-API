@@ -16,8 +16,8 @@ This a REST microservice developed using Expressjs.
 # Available Endpoints
 Verb | endpoint | description |
 --- | --- | --- |
-GET | api/repos/ | Lists the trending languages in the last 30 days |
-GET | api/repos/{date} | Lists the trending languages in the last 30 days from the given date|
+GET | <a href="http://localhost:5000/api/repos/">/api/repos/</a> | Lists the trending languages in the last 30 days |
+GET | <a href="http://localhost:5000/api/repos/2021-08-31">/api/repos/{date}</a> | Lists the trending languages in the last 30 days from the given date|
 
 # Expected response
 
